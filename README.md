@@ -3,20 +3,20 @@
 My name is Kenzo and I am a 14 year old TypeScript & Web developer.
 
 - 🔭 I’m currently working on
-  * Fire, a multi purpose, open source Discord bot. You can find all related repos [@FireDiscordBot](https://github.com/FireDiscordBot)
+  * Orange's, a multi purpose, close source Discord Bot. Under developement 
 
 - 🌱 I’m currently learning
   * The python
   
 - 📫 How to reach me:
 
-  Email: geek@gaminggeek.dev
+  Email: luxxured@protonmail.com
   
   Twitter: [@Luxxured](https://twitter.com/Luxxured)
   
   Discord:
 
-  [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/287698408855044097)](https://discord.com/users/986667374637875281)
+  [![Discord Presence](https://lanyard.cnrad.dev/api/986667374637875281)](https://discord.com/users/986667374637875281)
   
 - Discord Servers:
     [Luxito](https://discord.gg/svTWNyVrX9)
