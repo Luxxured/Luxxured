@@ -17,7 +17,7 @@ My name is Kenzo and I am a 14 year old TypeScript & Web developer.
   
 - Discord Servers:
     [WytaliaMC](https://wytalia.fr/discord)
-    [Z-Code]([https://discord.gg/RmegrCJ4V6](https://discord.gg/zcode))
+    [Z-Code](https://discord.gg/zcode)
   
 - GitHub Stats
 
