@@ -3,10 +3,7 @@
 My name is Kenzo and I am a 14 year old TypeScript & Web developer.
 
 - 🔭 I’m currently working on
-  * Orange's, a multi purpose, close source Discord Bot. Under developement 
-
-- 🌱 I’m currently learning
-  * The python
+  * Wytalia a minecraft server PvP / Faction
   
 - 📫 How to reach me:
 
@@ -19,8 +16,8 @@ My name is Kenzo and I am a 14 year old TypeScript & Web developer.
   [![Discord Presence](https://lanyard.cnrad.dev/api/986667374637875281)](https://discord.com/users/986667374637875281)
   
 - Discord Servers:
-    [Luxito](https://discord.gg/svTWNyVrX9)
-    [HiveBot](https://discord.gg/RmegrCJ4V6)
+    [WytaliaMC](https://wytalia.fr/discord)
+    [Z-Code]([https://discord.gg/RmegrCJ4V6](https://discord.gg/zcode))
   
 - GitHub Stats
 
